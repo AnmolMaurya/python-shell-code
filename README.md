@@ -2,7 +2,7 @@
 This shell Code can be used in Stack BufferOverflows for LINUX.
 
 
-for Exploring more Shell-Codes, you can check www.shell-storm.com.
+for Exploring more Shell-Codes, you can check http://shell-storm.org/shellcode/
 
 In linux for a successful STACK BUFFEROVERFLOW Vulnerability.
 The Stack Protector must be disabled.
