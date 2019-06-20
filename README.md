@@ -1,5 +1,5 @@
 # python-shell-code
-This shell Code can be used in Stack BufferOverflows for LINUX.
+This shell Code can be used in Stack BufferOverflows for LINUX usin EDB DEBUGGER.
 
 
 for Exploring more Shell-Codes, you can check http://shell-storm.org/shellcode/
